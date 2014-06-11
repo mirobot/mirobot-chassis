@@ -6,6 +6,8 @@ This repository contains the files that are needed to laser cut the chassis for 
  - mirobot_chassis_lasercut.pdf / .dxf / .svg - these files are the laser-cuttable outlines laid out for cutting as pdf, svg and dxf file types
  
 These designs are currently designed to be cut from 3mm MDF board.
+
+This repository is in a state of development, see the [releases](https://github.com/bjpirt/mirobot-chassis/releases) for known good snapshots. No guarantees are made - laser cut at your own risk!
  
 Licensing
 =========

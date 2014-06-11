@@ -2,9 +2,8 @@ Mirobot Chassis
 ===============
 
 This repository contains the files that are needed to laser cut the chassis for Mirobot (http://mirobot.io). There are a few different files here:
- - mirobot_chassis_design.ai - this is the main working illustrator file for Mirobot, but can't be used for laser cutting
- - mirobot_chassis_lasercut.ai / dxf - these files are the laser-cuttable outlines laid out for cutting as both ai and dxf file types
- - mirobot_chassis_lasercut-razor_lab.ai - this can be sent to Razor Lab (http://www.razorlab.co.uk/) for cutting
+ - mirobot_chassis_design.pdf - this is the main working file for Mirobot, but can't be used for laser cutting. It can be edited in Illustrator
+ - mirobot_chassis_lasercut.pdf / .dxf / .svg - these files are the laser-cuttable outlines laid out for cutting as pdf, svg and dxf file types
  
 These designs are currently designed to be cut from 3mm MDF board.
  
